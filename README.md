@@ -45,7 +45,7 @@ main();
 Pretty easy to get agent from context query database by node-mysql way.
 
 ```javascript
-let agent = this.getContext('MySQL')['MyMongoDB'];
+let agent = this.getContext('MySQL')['MyDB'];
 
 // Querying
 let ret = await agent.query('SELECT * FROM `mytable` WHERE `id` = ?', [ 1 ]);
