@@ -1,6 +1,6 @@
 {
   "name": "engined-mysql",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "MySQL agent service for engined",
   "main": "index.js",
   "scripts": {
